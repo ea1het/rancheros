@@ -14,7 +14,6 @@ write_files:
       ssh_authorized_keys:
         - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCkNKAUWRElYPG44SJ6JHb33l25yoqvga8Jzw1z6oZCFcLRDiRXFqipuKAm3b8kWKdsNWo+ePIWZlUbxYqPZCB6q73tJF2OiHtFdbl7DTDk3YLf3QtEFjcLxG7lkilPC0cwsHZbCvzdhmgCLCY8SN9ealDpKhY4PxjQKfkn1mtinMVmYXhYt5f2c/Qsc1LWmr13XvP+KIBSQO+W/aSDL9a+RehpLu79gKhOWWFb6Oh4OOxda3vrwbfwsfUh7bp9vyR5fD8+WWCJKeU3OknsnB9tmOQ8IYgrjTS7zF+oWp20hjt/vkt/I5Htl6aTt0+xS7wsrP63Uu/5UkYiQ5L2Cvd/pRRQdB0iu11Depq0nMoCH5YZX2Ap/JR5eCb7MmBWGCPHEGnA8VTXrZox1EPkOsyo67djiKCPrUzPUqqn1boW4ec4Rs4OsEFOwz5cLxU03YL3R8gO75VfosWPqLAguaZsmWNC1G7lY8IpsS2c+2uDawG7xCpP0ZZdC2Zd9UaEASO+5smzowXyz0Ct0d9dPY3YKdCGSCqLisL3MG44BDNfZxqoVziE2SrPoiRtsYYtcWh6S1v0Ds5CB2lq0DZYjc7DHhfbz3Ar884sJscsGbv0i4kz2bVfQWPPwUr0kn4R/dl9a9qy+0m+8sKdqm7XbnkSkMMf8j9palbU4dnHyZzoMQ==
       rancher:
-
         network:
           dns:
             override: true
