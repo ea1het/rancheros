@@ -1,0 +1,2 @@
+# rancheros
+RancherOS cloud config
